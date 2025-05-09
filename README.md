@@ -44,4 +44,4 @@ The **Human Resources Dashboard** is an interactive Tableau dashboard designed t
 Created and maintained by Your Name/Organization
 
 ## License 📄
-![License Icon](assets/license-icon.png)
+![License Icon](https://github.com/tubatasneem24/Human-Resources-Dashboard/blob/main/LICENSE)
