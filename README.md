@@ -41,7 +41,7 @@ The **Human Resources Dashboard** is an interactive Tableau dashboard designed t
 3. Export customized reports as needed.
 
 ## Authors ✍️
-Created and maintained by Your Name/Organization
+Created and maintained by Tuba Tasneem
 
 ## License 📄
 ![License Icon](https://github.com/tubatasneem24/Human-Resources-Dashboard/blob/main/LICENSE)
